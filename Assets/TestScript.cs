@@ -14,4 +14,11 @@ public class TestScript : MonoBehaviour
     {
         
     }
+
+    void Test()
+    {
+        Debug.Log("COUCOU!");
+    }
+
+
 }
